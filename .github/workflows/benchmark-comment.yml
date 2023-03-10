@@ -1,92 +1,294 @@
----
-name: Benchmark CLI - Comment
+**Prettier 2.8.4**
+[Playground link](https://prettier.io/playground/#N4Igxg9gdgLgprEAuEACVBDArjAlgGwGcAmAWgE4AOAIwwBNi64A6AK0ObogHcp8J6AHSg4ChAMykMABgDsAVjl1pbDl178hIgB6QATnGLMAtrijMwhQsKy6IBo6fPtOPPgLrCAbgi56A+rb6hiZmqq4aHt64TBCk1AAsAIzU1LKyAGzh6u5a3HoYAA4A6rgwABYAInBeuGBw1fBgeNCkcNJ05PLEGeLZbpqeUP6QxsbQ7AAScPiFcHqEpBmy0pTy4uv9kVr+BhjNIxBjE4tw2vB6UBj4UkkbSXDiCVu5Q7tw+zCkXMaHx1DsNrneZXG4ZJLyBJych9Fw5QbCXYQfD4LCFAAKqIA5mYAEIYagzaazeaLSj1SFgShGOEDKJQcQYSjkABmPSoGUoGHIxDSGG5YDo4koGTgGXk-KZWUKUCxwiSPWYsnI1CSGASLLodHklCeiWonPkLDALwRV2oEBwkmIcgwKwS1FN9PodFIhDgzVwrWoOBg0GYD3IGQScFkGzAPIy2vksmoOosVmELrdHpaUG+uFqTD0zFW5BS8m1DzSK2IsahGAsTq0GFweikxnmdQwpAMWKw+AwOcs1lBuCxUEbsAAKhAAGL4M6keQstm82Qs6tDACC+AuV3gAGVcAAvOAAYS7dEWYdoSVZz1p2yGGCgYHK9mY5RgxnwScKuCX78K5Q+2dCzhqHSWj4mAADWWJ6JaUCuqylDpGAiRflAtB0FicBtJCxBgBqSTIRa+B0AA8jg+BmBhcBJMyxAshC+EQBAMCEDABSFBYlDSBK0gJJCXJwFQbLiNIxDkFWV6vMIh5QVg7o3OIdDUl0sbIfeWBQGBLKZsaiZ3mRCAwEqGRgN0tAZOQCgJJQVGUB8awJr2YB6bAFDWdQQbyMh+7IvYm7cBgMD3qQyRBjI3IqUc4zDNILKWfI8jLEqDAsvISRJMZaxwNQ0WdLIYAqD2wijJF-jRbF8WyMwayyAkYAZDaC7RcQcCUR65CiSa4lmkV0D+MQ6pNRszzMhgOrUFSshCgpYBNcQxDxh1QHXoVEU9YwqU8cGSqKPFobiDas59ekGRjXQYmLRJd4rVFRoJEZnTMCGGAss13RJCysiZQkdp0DV7Xhf8-gTRsKrkM86rUCJqpltIwYzb0dqVgtEQXd1wzkMZEOUCyWTtBqGApB62E2eZsgPA6Z3I11V2AzydDKrySoYE1YAE+IE3ksQSTSCdJpI-C9Ko-4wriAq1JZAkxA2WNdyZGyiHoxG4iLnzwFDILVAcVQqzMPjdBUmATxzUkUYauSdCpBT-NaILBJuSzVnMNQetQnc0icfFbPSI8s19CrS2XQDGCEAAnneAbCRjs0siNYCITQKpQpbqvLQDdBRrIvIdMwOoIdItXiGZmVGrGeuUEn-uC3Q6oKjOi6ME8axeystE0GWaVgMr-3FZRSQfXQXPMGZtttYKNpPOIeryR5fso9TcD91C2GOvJdVmeQmVs1yiQZOq+Pl7PAPPRLOpsjrJNliygoS9hEtrEa09dz1R9zVjRjNYSnMYO0VcQnAih-0zeyy1YCfEkMGPKHQarhRAc0SQI0NTfxnlTWA+lNwwH8jJOAixxS5TSgpcKEAwK4EoqQDucBLJCSQQLHSPYAAUSQACUhUrC0OIEwu8LCEjsLofIbhLCMh8MILQ2QgjaGUFEeQURXMpFsOYUIu4UiuFyPobw5RxspEiLUeI5RNpRGcz0bIjhQjiDiD0UooxrDVEWJ6Ho7R1jJHKKEqIkWzjDF0Ins48x7iBGOM0RY4UziHEWKhKIiWoTTHKJ4qEnxwS-F0MsqEoJPDpCiJSqkiJFjISpKsTwmJPC4ksJ1KkpJ-DGHKLqqI3olSvH8JyfwvJ-CClCLMqIlYrSykWIzq0jJdDqqtLqUI9IrS7G9JKUIjioirKTLcSw3UkyBliIaeMppYiRmzLGbQ8gKTlH5gkT0lhoMJELKDOw-cw5ly4l9NAAAMrgZipA5xMnXnhTq9J9wyT9MYZcegoLcBPMkcQ5ARqnVeVoKu6DlwxFOAXWQlBbpZFBUMJg0cOwwHRFBQoJ55D1GwpyZCyLsBrnRRATF8RxTGRxfiuAKK1ybggGAXA1wACSkAoDon2GBFyup5BuVEoi4QPxazpjIupbOWUrJWRig6eoeYO4hiATBI4QrSAirAswSi6QtQmLihrPaxlhIP35Yq68SQgoJCOvJRcRrKihwwKYMAY5oAwE3GAa48xpxAr1j0Gk50zQ1H0iqiAWJ0I5gUNzDIGQWTSALjaVks0Pgsj+kalkDELhkCrh6XU4gqFaEdW2aSMEHkxTjB3HNQwU16GMKQN63JWTSErEavNVblhczjKyZCFbjD+SZfAKtdp1gPAjR2+wxgmVMFgLgTSpIKBdBMe7DtBgMIsUZTcWgUAoDzEqnNeeVI6pwuDMJcyPEy4FSgGODs+BcSTnnqBCCBbXRrElh-H1lN6RYmuJOPQwcEjTgyKsRNlAy5GoAOIfvmMHJlXb0KkP2JzTkl5fVvoQE2MAABZIopAC7UETeZPliGtDoRgF5f4AA5DAXhiWkposQB055HRGt-PQeY5AHm5WDGqDyDGZiEDMEQhV0woK3sgtBV0EblTAytfhoYAmICQYwOhfcGK5ium4hCOMPFkLlCwF2qAdy8AOoIJOWCDwtRexeVJ4QuAoMYR0-J91fJKB61OqeqzdnSC2ZDfEWQTInPITMEwbQZACQOiNHnPzMEzg-vJOa7mENwsBfkKQBQI1GBISNf5s4GQvPdH5NIczr6tAZe0LINovI6ZPDwwVoYRXKBBRlsoeS8Wpwv2oPHFQ6WIvaCWFCZ6mQM7iFDPW8gethRskjTFPq2GEjTYVf5-scRLQwBFdpXsZgygplZVXL9g9EK8gSMoHUQp9tV24ilfeZo1tfHdJtrswdmAsmw89eg8hQapT-qlHorrZsoIxQAJTgAARywHWBo1LCVfCpIC6q71kKdmDotlj8lpBdAniwI1cPFtcyS5-BccVYcYHhzgVKSwgxsmjvlq2QwMdE8kDFSHyoQUWb4ATzHP6gYw3BBT5OzPCcwAhBQWMYoFSwiZ9TvnWW9YswLtzfHvPe6kF5DaA0CQRdVeEGLqipChJwFbi+yn6uWdE5Y-mboXIEiVf1zzxbnMgqOa9ivWX1uyB5ZqsKWgjucAmNIOSHldNY4e5gDR0hXMxTTS5-7MXc0pCpchNQVXlvI9ZfMkj3KevueR5K1Geo4NOOi8N4Hlj2FeQi3SAHoSDzHO9DVJJtXUBrn57aP3J6tF4-p4+O2DChBChdnQeYU9k531gGDkRHwPyYhYKCi-WayRYe8aZTBZsfp6wsyerTRntfBjTpSn+wUeOjXXNsHAPNcBhNqVdPxN6scqTIR0wQLBHBCz1tjhgTkI1ANbMA+Nc79Jb+TisLmeKd6F6XkA0XuLkQsFmBVdDQgaAL9B5MaeSXaG-eeRldzW8OzHMR4biQDGMJ6KuZ6KyFUGQb-LQIcLAU1KUBgaWZAkQXEYOLyVEYwdMFUGgZkLKG-NbLtfAOlBlZlVldlcCKQZQB0etejJncYbMKAYccoMwX7ETUheecyB7dfS3YwHAfyewTDCGOKWFdrJnVDdQpfJYBSCaN2BFfQwwzQ5HcydUf3I1NQ9BJfDgWMTUExbPAbbeRCTUOyU9BwjQhYJUD0DYfGSyOgTUY2OmJkL7MtYQCAUfPQcfTccoLseeAwxwzQ4mRCTKcPC6bvaDFApfZgcQXlQwdeF7JmTIF7WFIdGIqAPIiiOgMoR8ZYGqOqISVIRgZYMIwFA0BVdldCW5dSRYc3beAbC3bnQoMIgCZCD8QQ1YJIc3F7NPf2QoElNEU1LUaqUGRrI1PYZoN0bvUgK4Wod9NMUgPARsHML6GiV1V7RzfbP9CWfkJNJnAwV1QoAKZI-wfwBAZCN4ooT4lsTfesLiOqGcXPWvf4j4+8DAYcYOOYRYeoc8IgiEy3AwCLPQW5LEZ8C0LrEUfbQkdUZCX7OocoYcM4L4dobiEmPQyEwgAAXm4CFhWAABowAsR-AWIsA4BhAFhGTmTpA2SOSuS4BWF2E+SmTPYhTOS9BuTaEMkJSBTpSRSWTjBeSGTJTWT2SZTuTVT6FxSNSlTtSVTjAxT1T+SpTjTZS4A9SFTDTLThTrS9TzFFSHSdSbTTSYlXStTHTdTTS-FvTBSrS-SxEDSLSfT3S9SglAzlSnTTTpFzTNSgzfSPT6EOkYzgzUyFQwymS-1BTyghY3ZYzuTEz-A8yWSCyhJkz3T9TSyFQoQKyyybRiyeSoBCByN553gYCsA9B6h9SnwXw3w2yOy6AuzLReyWBnxXxhBrsziPN3U-RkRaAcw85+ITCgwPgIQ6pUpaoT1kJZyvR0x5z6xFz8BlydYspxQeQ20CQfo-02ps0FUeCV1BiwJFg7gbD4pliLpNxCgyIYAyMvA2gnirIM59yYBg4-9vi1xuwdJCAsBqBCAwAEjCRTUYRDBuY7h9yEKkKUKMJO1vdANDAJpvyzRNwELhx5NltSAYZ61uRCxkIAoTQnBGLfxGxnCxpOYXsnYtlHhI0M0-4FUKg4B2LOBXZAxAMaInYOg9oHtfZGKChZw6hnc7RQxcUFKPgXx9J0NSVIR8wTEGBGK8BpijU1ItIFhrglgrI6YeK+oiYDZpp6gDYnZBReg1zQYFVMF6x0D8Bg59MOBqUDQxoX9Eg5A8tlhL5GQSChhRAiBq0xsaM6pkJhAQAWSQASU0xCBkBQAuxfl2V0SsqUBrg-Jg4sq0rqAChwI4BnU7U4BBi4BkBo4iAbSQAKqOVqrfz9gzAsRkAVSQARLCQtR5569ZQsA7Mm1-I8BZRkAQBsA-RUqQApz8BigZD4Au99g4BNwEAeM8BagIKZqewFqzB3Q9A0UCgsQu1Grrh3Q0r2BtBtxZRJwABFLARiBqpAJqm6kAbvBYeYGa2gQkfABawoBI2AUoOgCoZADiNKkGiAd0YoViGakGrBeYHwBaoHN6yjQq2axYDdeeeeBagwIHEHdFeTS6j666lq90UwXqp0kAHjR6uAZcGAZdH0eAdEeYeqq65qtKhmrEZ616+Abmr69BagcGyGpAYgNKliWsEVLEYjcm-qwgeQBazBSixC4Wlqrwbk+fcdZ1ZC3AD45cGCNBSC96z6uAAAX0tqAA)
+<!-- prettier-ignore -->
+```sh
+--parser babel
+```
 
-on:
-  issue_comment:
-    types: [created, edited]
+**Input:**
+<!-- prettier-ignore -->
+```jsx
+  autils2-98bad2de.js.download
+utils3-a07507d0.js.download
+uxcore2.min.css
+uxcore2.min.js.download
+vendor_uxcore2.min.js.download
+video-b41bb776.js.download
+wrapWithDeviceDetection-e0d95263.js.download
+_commonjsHelpers-67085353.js.download
+_react_commonjs-external-a1351e34.js.download
+_react-dom_commonjs-external-61540793.js.download
+_rollupPluginBabelHelpers-8ce54c82.js.download
+3a89f269868a92b7aa9cd386e65aaa86.png
+126.79b1a4fdd5834b4b685e.c.js.download
+about3-207a704b.js.download
+add-section-button.1e964e735c926d557b58.css
+add-section-divider.0891b5d51eb77027b40a.c.js.download
+air-america-regular.css
+alignmentToFlex-5ff22b7f.js.download
+AlternateSizeCards-73ba19f4.js.download
+anchor.html
+api.js.download
+appheader.min.js.download
+Background-9f877cb4.js.download
+badge-e542c4f1.js.download
+boldOutline-e1892f15.js.download
+bootstrap.c805a04548ae98f23029.c.js.download
+Carousel-3d82957b.js.download
+chunkfive.css
+client.76c52ba697548188ea85.css
+client-9188b965.js.download
+ColorSwatch-4196a0a9.js.download
+common_0f485567.7d2f511c585eb0fd97c0.css
+common_0f485567.8574c6207f0f2ee1ec99.c.js.download
+common_2a42e354.89a58bc87d3d8c2e2258.c.js.download
+common_2d114564.75056e7320ff2a776bcd.c.js.download
+common_05e46cd9.4eafee521f7eb4a7d4c9.c.js.download
+common_7d359b94.a4b29b1270642e263a7a.c.js.download
+common_9c5b28f6.e04fa1bec2c8e9771e4b.c.js.download
+common_792d792b.7a2ec1be37d8c210bcdc.c.js.download
+common_38312826.428ebc1376f2cb9cc93f.c.js.download
+common_98809808.a1dc8c342516d4f8cdbb.c.js.download
+common_abb9c181.bdc401300556370e3223.c.js.download
+common_async.102c5b22fa5ccb8b9b40.c.js.download
+common_d6d72b0d.5877c0c6369eb5e7bdc8.c.js.download
+common_da4125ff.2d34850e70f18b271ccf.c.js.download
+common_e117ed10.69abb99cd2034334b3d5.c.js.download
+common_ed1402cb.3d62699eb378ab46a4a1.c.js.download
+common_fe4258f2.a97727fcd422c42855e5.c.js.download
+common_fe4258f2.eebe21ae0da15e50e5a2.css
+contact3-64c00d4c.js.download
+contact3-a54fe0dc.js.download
+contentStatuses-657c1cd8.js.download
+cookie1-cfe4830c.js.download
+css
+css(1)
+css(2)
+css(4)
+css(5)
+css(6)
+css(7)
+css(8)
+css(9)
+css(10)
+css(12)
+css(13)
+css(14)
+css(15)
+css(16)
+css(17)
+css(18)
+css(20)
+css(21)
+css(22)
+css(23)
+css(24)
+css(25)
+css(26)
+css(28)
+css(29)
+css(30)
+css(31)
+css(32)
+css(33)
+css(34)
+css(36)
+css(37)
+css(38)
+css(39)
+css(40)
+css(42)
+css(43)
+css(45)
+css(46)
+css(47)
+css(48)
+css(49)
+css(50)
+css(51)
+css(53)
+css(54)
+css(55)
+css(56)
+css(57)
+css(58)
+css(59)
+css(61)
+css(62)
+css(63)
+css(64)
+css(65)
+css(66)
+css(67)
+css(69)
+css(70)
+css(71)
+css(72)
+css(73)
+css(74)
+css(75)
+css(77)
+css(78)
+css(79)
+css(80)
+css(81)
+css(82)
+css(83)
+css(85)
+css(86)
+css(87)
+css(88)
+css(89)
+css(90)
+css(91)
+css(93)
+css(94)
+css(95)
+css(96)
+CTAButtonList-f22a89e1.js.download
+CustomArrows-74139a5d.js.download
+dataAids-e3678466.js.download
+defaultProps-75ce2c68.js.download
+defaultProps-b65c5ce2.js.download
+defaultSocialIconPack-91835b99.js.download
+domain-link.5b08181f44bce089cf4e.css
+domain-link.e177dd235598832c5025.c.js.download
+download1-447763df.js.download
+DynamicFontScaler-59adc262.js.download
+event-logger.750b66f036209f22eaf9.c.js.download
+footer2-daec833c.js.download
+Foreground-ff4b5cfc.js.download
+form-1fa99f0a.js.download
+Form-6710b59f.js.download
+formatItem-a7531e66.js.download
+formIdentifiers-99523055.js.download
+free-trial-banner.825edc86284640297458.css
+FullBleedBackground-8528be22.js.download
+gallery4-5608f988.js.download
+GalleryImage-cac21684.js.download
+genericMap-36bf9979.js.download
+getCommonNavProps-2f24b19b.js.download
+header9-f7c641a5.js.download
+helsinki.css
+HeroBackground-6679359f.js.download
+HeroImageCropped-0415b545.js.download
+humanisticFilled-91edd0e1.js.download
+image-manager-b7a8dcd.css
+image-manager-b7a8dcd.js.download
+index2-ab4b5e0c.js.download
+index4-8c470bb2.js.download
+index5-75a52db4.js.download
+index6-b752aa01.js.download
+index7-e2bd7349.js.download
+index8-4137d03d.js.download
+index-258b8b90.js.download
+index-640fe76723e70a9dc38f26ff42abf444.css
+indigo-outline.css
+init-secondary.6cb2b4d058d34dda0451.c.js.download
+init-secondary.fbffead59411e51126ca.css
+interopRequireDefault-c83974f7.js.download
+layout9-3d09533e.js.download
+layout10-721a7f55.js.download
+layout11-696f2fa1.js.download
+layout13-f4c8379d.js.download
+layout14-7d306611.js.download
+layout15-97be6123.js.download
+layout16-dcc1360b.js.download
+layout17-2b20b643.js.download
+layout18-c30e8b22.js.download
+layout19-91528a49.js.download
+layout21-48d0e3d6.js.download
+layout22-014c38ba.js.download
+layout23-8c5bd7cc.js.download
+layout24-c10e6c21.js.download
+layout25-a2db54b3.js.download
+layout26-973d07c2.js.download
+layout27-6dcea4b5.js.download
+layout29-2c2b3177.js.download
+layout30-f8d631af.js.download
+Layout-ed1aff13.js.download
+league-spartan.css
+legacyOverrides-42582241.js.download
+linkIndicator-c1af92dd.js.download
+loaders-5160cd55.js.download
+LuxeForeground-e91fccc8.js.download
+maniless.5d0acca68a5889088c87.c.js.download
+maniless.056f7ee52bb6178a5dc1.css
+Masonry-fbc3de73.js.download
+media-manager.e3048857afdafe819ba0.c.js.download
+menu1-a86d2bc1.js.download
+menuByColumn-9b8b89b0.js.download
+minimalSocialIconPack-ad04b0ab.js.download
+modernThinRound-ced97fbd.js.download
+mutator-3b255780.js.download
+Mutator-6d87d006.js.download
+Mutator-0997a4cc.js.download
+mutators.7bfd23cea3eb46cbfd85.css
+mutators.7ec35a148dfd16d7a8ca.c.js.download
+overrideSharedMutator-8e9cbeb1.js.download
+page-editor.3b99e29e59a276597866.c.js.download
+page-editor.674c6230bb2d67df39b6.css
+PageLinks-49b463e9.js.download
+pdf.min.js.download
+pick-08149592.js.download
+popup1-dd74943d.js.download
+react-spa-navigation-timer.4a2fca9418d4d6042aa9.c.js.download
+recaptcha__en.js.download
+recaptcha-loader-5a0625f5.js.download
+recaptchaTypes-ce199ba5.js.download
+renderLightbox-864dbea4.js.download
+RichText-e0049770.js.download
+rs=w_370,cg_true
+rs=w_370,cg_true(2)
+rs=w_370,cg_true(3)
+rs=w_370,cg_true,m
+rs=w_370,cg_true,m(1)
+rs=w_370,cg_true,m(2)
+rs=w_370,cg_true,m(3)
+rs=w_370,cg_true,m(4)
+rs=w_370,cg_true,m(6)
+rs=w_370,cg_true,m(7)
+rs=w_370,cg_true,m(8)
+rs=w_370,cg_true,m(9)
+rs=w_370,cg_true,m(10)
+rs=w_370,cg_true,m(11)
+rs=w_370,cg_true,m(12)
+rs=w_600,h_300,cg_true
+rs=w_600,h_300,cg_true(1)
+rs=w_1240,h_620,cg_true
+saved_resource(1).html
+saved_resource.html
+section-manager-toolbar.0ce9d8796ea156211c68.c.js.download
+section-manager-toolbar.ab06592b59abd460993c.css
+SocialLinks-1397a562.js.download
+SplitNav-e42a8172.js.download
+styles__ltr.css
+subscribe1-93e20b13.js.download
+subscribe-form-888e27d2.js.download
+SubTagline-060aa95d.js.download
+tcc.min.js.download
+themes.7bc2159bd90e36fdaee5.css
+themes.d1301e9882fbd0d32fb3.c.js.download
+traffic2-0a7e72c6.js.download
+treatmentMaps-549123d2.js.download
+tti.min.js.download
+universal-681d7bd92a2c8c3c2cec3bdcd63e9d94.css
+user-analytics.efb6bca6b4070167fc3a.c.js.download
+utils-1f262462.js.download
 
-jobs:
-  comment-handler:
-    name: Trigger Benchmarks
 
-    runs-on: ubuntu-latest
+```
 
-    steps:
-      - name: Handle Incoming Comment
-        env:
-          DISPATCH_REPO: "benchmarks"
-          DISPATCH_OWNER: "npm"
-          EVENT_NAME: ${{ github.event_name }}
-          EVENT_ACTION: ${{ github.event.action }}
-          OWNER: ${{ github.event.repository.owner.login }}
-          REPO: ${{ github.event.repository.name }}
-          ISSUE_NUMBER: ${{ github.event.issue.number }}
-          COMMENT_BODY: ${{ github.event.comment.body }}
-          COMMENT_ID: ${{ github.event.comment.id }}
-          COMMENT_NODE_ID: ${{ github.event.comment.node_id }}
-          COMMENT_ACTIONABLE: ${{ startsWith(github.event.comment.body, 'test this please ✅') }}
-          AUTH_TOKEN: ${{ secrets.NPM_DEPLOY_USER_PAT }}
-        run: |
-          # Comment Handler
+**Output:**
+<!-- prettier-ignore -->
+```jsx
+SyntaxError: Identifier directly after number. (1:13)
+> 1 |   autils2-98bad2de.js.download
+    |             ^
+  2 | utils3-a07507d0.js.download
+  3 | uxcore2.min.css
+  4 | uxcore2.min.js.download
+```
 
-          # Creates an exit early condition if there are errors
-          # Exit early if `jq` is not present
-          set -e
-          jq --version
+**Expected behavior:**
 
-          # Figure out if comment came from pull-request or issue
-          IS_PR=$(curl -s https://api.github.com/repos/${OWNER}/${REPO}/issues/${ISSUE_NUMBER} | jq -cr '.pull_request.url')
-
-          if [ "${IS_PR}" != "null" ]; then
-            echo "Comment from pull/${ISSUE_NUMBER}."
-
-            # It is a pull-request; check comment body for correct phrase
-            if [ "${COMMENT_ACTIONABLE}" == "true" ]; then
-              # Fetch pull-request information
-              PR_DATA=$(curl -s "${IS_PR}")
-              PR_OWNER=$(echo "${PR_DATA}" | jq '.head.repo.owner.login')
-              PR_REPO=$(echo "${PR_DATA}" | jq '.head.repo.name')
-              PR_COMMIT_SHA=$(curl -s "${IS_PR}/commits" | jq -r '.[0].sha')
-
-              # dispatch request for benchmarks
-              echo "Dispatching request..."
-              curl \
-                -s \
-                -X POST https://api.github.com/repos/${DISPATCH_OWNER}/${DISPATCH_REPO}/dispatches \
-                -H "Accept: application/vnd.github.everest-preview+json" \
-                -H "Authorization: token ${AUTH_TOKEN}" \
-                -d \
-                '
-                {
-                  "event_type": "'"${EVENT_NAME}"'",
-                  "client_payload": {
-                    "pr_id": "'"${ISSUE_NUMBER}"'",
-                    "repo": "'"${PR_REPO}"'",
-                    "owner": "'"${PR_OWNER}"'",
-                    "commit_sha": "'"${PR_COMMIT_SHA}"'"
-                  }
-                }'
-
-              # Create reaction on comment to confirm dispatch was sent
-              curl \
-                -s \
-                -X POST https://api.github.com/graphql \
-                -H "Content-Type: application/json" \
-                -H "Authorization: token ${AUTH_TOKEN}" \
-                -d \
-                '
-                {
-                  "query": "mutation($inputData:AddReactionInput!) { addReaction(input:$inputData) { reaction { content } } }",
-                  "variables": {
-                    "inputData": {
-                      "subjectId": "'"${COMMENT_NODE_ID}"'",
-                      "content": "ROCKET"
-                    }
-                  }
-                }'
-            else
-              echo "Comment not actionable."
-            fi
-          else
-            echo "Comment not from pull-request."
-          fi
